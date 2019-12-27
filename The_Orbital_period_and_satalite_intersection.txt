@@ -1,0 +1,7 @@
+Orbital Period[Earth Years]:
+Mercury: 0.23,Venus: 0.61,Earth: 1.0,Mars: 1.87
+
+Satalite reaching mars[Earth Years]: 
+0.73
+Satalite reaching mars[Days]: 
+266.0
